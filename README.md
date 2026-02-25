@@ -2,7 +2,7 @@
 This is the main repository for the IEEE Minesweeper Game Board Project.
 
 ## Meetings
-**Wednesdays from 4:00 PM - 5:00 PM in Eaton 3010**
+**Friday from 3:00 PM - 5:00 PM in Learned 3250**
 
 ## Collaboration Guidelines
 Since this is a group project, **all pull requests will be discussed and decided**
